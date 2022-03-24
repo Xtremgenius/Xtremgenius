@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xtremgenius
+- 👋 Hi, I’m @Xtragenius
 - 👀 I’m interested in Frontend Engineering
 - 🌱 I’m currently learning Javascript and React
 - 💞️ I’m looking to collaborate on Projects
